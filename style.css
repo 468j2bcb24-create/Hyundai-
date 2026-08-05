@@ -1,0 +1,6 @@
+body{margin:0;font-family:system-ui;background:#0b1622;color:#fff}
+header{padding:20px;background:#0f2740}
+nav{display:flex;gap:8px;padding:10px;background:#122d49}
+button{padding:10px 14px;border:0;border-radius:10px;background:#1d5f9d;color:#fff}
+main{padding:20px}
+.card{background:#16293d;padding:16px;border-radius:12px}
